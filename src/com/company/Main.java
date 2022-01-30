@@ -12,8 +12,8 @@ public class Main {
         planet.size="Gigantic";
 
         SUN solana=new SUN();
-        solana.heat=45.8;
-        solana.r=78;
+        solana.heat=45.9;
+        solana.r=79;
         solana.t=60090;
 
 
