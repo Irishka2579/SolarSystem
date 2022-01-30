@@ -5,5 +5,9 @@ public class Main {
         SolarSystem milkyway=new SolarSystem();
         milkyway.name=2;
         milkyway.number=5;
+
+        MOON moon=new MOON();
+        moon.color="Perla";
+        moon.heat=123;
     }
 }
