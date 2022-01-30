@@ -8,6 +8,7 @@ public class Main {
 
         MOON moon=new MOON();
         moon.color="Perla";
-        moon.heat=123;
+        moon.heat="123";
+        moon.shine="brilliant";
     }
 }
