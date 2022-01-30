@@ -11,5 +11,11 @@ public class Main {
         planet.color="green";
         planet.size="Gigantic";
 
+        moon2 montero=new moon2();
+        montero.color="pink";
+        montero.radius=9.8;
+        montero.lightinesity="diamond";
+
+
     }
 }
